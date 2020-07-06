@@ -29,7 +29,7 @@ public abstract class Cycle {
         return getClass().getSimpleName() +
                 " " + getMarque() +
                 " " + getModele() +
-                " (" + getAge() + (getAge() > 1 ? "s)" : ")") +
+                " (" + getAge() + (getAge() > 1 ? "ans)" : "an)") +
                 " " + getSpecificites() +
                 " " + String.format("%.02f€/heure", getTarifHoraire());
     }
