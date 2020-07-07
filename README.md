@@ -18,8 +18,8 @@ L'objectif est de créer un programme permettant à un loueur de cycle s d affic
 Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
 
 ### Statut
-En cours
+Terminé
 
 #### Dernière mise à jour
 06/07/2020  
-(README | 06/07/2020)
+(README | 07/07/2020)

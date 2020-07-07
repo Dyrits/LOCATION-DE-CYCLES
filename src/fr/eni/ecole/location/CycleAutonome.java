@@ -8,8 +8,8 @@ public abstract class CycleAutonome extends Cycle {
     /**
      * Constructeur.
      *
-     * @param marque    String | Marque du cycle autonome.
-     * @param modele    String |  Modele du cycle autonome.
+     * @param marque String | Marque du cycle autonome.
+     * @param modele String |  Modele du cycle autonome.
      * @param dateAchat LocalDate | Date d'achat du cycle autonome.
      * @param autonomie double| Autnomie en kilomètres du cycle autonome.
      */
