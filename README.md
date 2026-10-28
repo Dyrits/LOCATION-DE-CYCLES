@@ -1,25 +1,27 @@
 # Location de cycles
 
-## A propos de ce projet
+A Java program for a cycle rental shop, built for the ENI course "La Programmation Orientée Objet (POO) avec Java" (Module 6: abstract classes, abstract methods and interfaces).
 
-### Cursus
-ENI | La Programmation Orientée Objet (POO) avec Java  
-~ [Module 6 - Les classes abstraites, les méthodes abstraites et les interfaces](https://github.com/Dyrits/LOCATION-DE-CYCLES/blob/master/Module%2006%20-%20Enonc%C3%A9%20TP%20-%20Location%20de%20cycles.pdf)
+## About The Project
 
-### Énoncés (par l'ENI)
-L'objectif est de créer un programme permettant à un loueur de cycle s d afficher les modèles proposés à la location et les tarifs pratiqués
+The assignment (from the ENI brief): create a program allowing a cycle rental company to display the models offered for rent and their prices.
 
-> Plus de détails sont disponibles dans le fichier d'énoncé au format PDF.
+The original assignment (in French, provided by ENI) is preserved in this repository: [Module 06 - Enoncé TP - Location de cycles.pdf](Module%2006%20-%20Enonc%C3%A9%20TP%20-%20Location%20de%20cycles.pdf).
 
-### Technologie principale
+The original README (in French) noted that the project was built from scratch following specific instructions.
+
+## Built With
+
 - Java
 
-### Détails | Commentaires
-Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
+## Status
 
-### Statut
-V1.0 - Terminée
+V1.0 - Completed, per the original README.
 
-#### Dernière mise à jour
-06/07/2020  
-(README | 07/07/2020)
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
